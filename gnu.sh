@@ -1,4 +1,5 @@
-#!/bin/bash
+- #!/usr/bin/env/ bash
++ #!/usr/bin/env bash
 
 # Update package list and install necessary packages
 apt update
